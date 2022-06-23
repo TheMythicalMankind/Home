@@ -1,0 +1,6 @@
+[submodule "Documents"]
+	path = Documents
+	url = https://github.com/TheMythicalMankind/Documents.git
+[submodule "Projects/UniverseUnreal"]
+	path = Projects/UniverseUnreal
+	url = https://github.com/TheMythicalMankind/UniverseUnreal.git
