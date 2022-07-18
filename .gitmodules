@@ -4,3 +4,6 @@
 [submodule "Projects/UniverseUnreal"]
 	path = Projects/UniverseUnreal
 	url = https://github.com/TheMythicalMankind/UniverseUnreal.git
+[submodule "Projects/MechanicalAge"]
+	path = Projects/MechanicalAge
+	url = https://github.com/TheMythicalMankind/MechanicalAge.git
